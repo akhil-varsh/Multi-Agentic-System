@@ -1,16 +1,8 @@
-gtts
-pyaudio
-speechrecognition
-playsound==1.2.2
-opencv-python
-textblob
+langchain-tavily
 langdetect
-numpy
-tensorflow
 langchain
 langchain-openai
 faiss-cpu
-sentence-transformers
 streamlit
 tiktoken
 duckduckgo-search
