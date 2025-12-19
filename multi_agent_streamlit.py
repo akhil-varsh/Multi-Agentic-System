@@ -1,11 +1,4 @@
-"""
-Multi-Agent Research System with Streamlit Interface
 
-A beautiful Streamlit app for multi-agent research using LangGraph and Mistral AI
-
-Requirements:
-pip install streamlit langchain langchain-openai langchain-community langgraph tavily-python python-dotenv
-"""
 
 import os
 import streamlit as st
